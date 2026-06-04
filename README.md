@@ -77,6 +77,7 @@ Lucide React	Icons
 Web Crypto API	Secure Password Generation
 
 fork and use
+
 📂 Installation
 Clone Repository
 git clone https://github.com/yourusername/passguard.git
